@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola! Bienvenido a mi perfil — Oscar Alcides Cortez 🥇
 
 > *"El código es poesía escrita en lógica."*
